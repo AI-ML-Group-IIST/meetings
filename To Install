@@ -1,0 +1,15 @@
+Installation procedure:
+
+1. Download anaconda from the webpage and install.
+2. Create a new Virtual Environment (using conda create) with python >3.6 
+3. Switch to that virtual environment (using conda activate)
+4. Install the following packages:
+    a. Python 3.6
+    b. Matplotlib
+    c. Numpy
+    d. Scipy
+    e. Scikit-learn
+    f. Tensorflow 2.0
+    g. Pandas
+    h. Theano
+5. A text editor of your choice (Spyder is good for large data, vscode for extensibility, Jupyter is widely used everywhere)
